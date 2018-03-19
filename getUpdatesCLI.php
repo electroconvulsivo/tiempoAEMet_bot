@@ -13,7 +13,7 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Add you bot's API key and name
-$bot_api_key  = '512406051:AAGJV1nJzrY5FMlxg522YMqnGxPYev1yrKs';
+$bot_api_key  = '';
 $bot_username = 'tiempoAEMet_bot';
 
 // Define all IDs of admin users in this array (leave as empty array if not used)
